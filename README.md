@@ -1,7 +1,7 @@
 # azureproject
-## Github repository link : https://github.com/SachinS99/azureproject
+### Github repository link : https://github.com/SachinS99/azureproject
 
-## Azure host Link : https://calm-beach-05d63a910.2.azurestaticapps.net/
+### Azure host Link : https://calm-beach-05d63a910.2.azurestaticapps.net/
 
 # Home
 ![image](https://user-images.githubusercontent.com/114880892/202655463-13d4faa9-25b9-48f3-952e-cd4ad1771948.png)
