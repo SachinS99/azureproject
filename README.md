@@ -1,4 +1,7 @@
 # azureproject
+  
+## Patients can chat, take appointment from portal. easy used and handled design. customer satifiles 
+  
 ### Github repository link : https://github.com/SachinS99/azureproject
 
 ### Azure host Link : https://calm-beach-05d63a910.2.azurestaticapps.net/
